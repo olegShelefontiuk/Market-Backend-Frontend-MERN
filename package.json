@@ -1,0 +1,42 @@
+{
+  "name": "mern-marketplace",
+  "version": "1.0.0",
+  "description": "online marketplace",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "server": " nodemon",
+    "client": " npm run start --prefix client"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.11.2",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/styles": "^4.11.3",
+    "bcrypt": "^5.0.0",
+    "body-parser": "1.19.0",
+    "compression": "1.7.4",
+    "cookie-parser": "1.4.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-jwt": "5.3.1",
+    "formidable": "1.2.2",
+    "helmet": "3.22.0",
+    "jsonwebtoken": "^8.5.1",
+    "query-string": "6.11.1",
+    "materialize-css": "^1.0.0",
+    "mongoose": "^5.11.11",
+    "nodemon": "^2.0.7",
+    "prop-types": "^15.7.2",
+    "react-router-dom": "^5.2.0",
+    "react-stripe-elements": "6.1.1",
+    "request": "2.88.2",
+    "stripe": "8.38.0"
+  },
+  "devDependencies": {
+    "@types/body-parser": "^1.19.0",
+    "concurrently": "^5.2.0",
+    "cross-env": "^7.0.3",
+    "lodash": "^4.17.20"
+  }
+}

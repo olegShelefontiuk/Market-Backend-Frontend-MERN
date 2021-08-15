@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="95df4da3-b227-451d-8634-dd0810dc015d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
+  <component name="ProjectId" id="1si9SW5gTg6jt0dZFPbQx0rfJp2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client/src/cart" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\WebstormProjects\mern-marketplace\client\src\cart" />
+      <recent name="C:\Users\lenovo\WebstormProjects\mern-marketplace\client\src" />
+      <recent name="C:\Users\lenovo\WebstormProjects\mern-marketplace\client\src\assets\images" />
+      <recent name="C:\Users\lenovo\WebstormProjects\mern-marketplace\client\src\user" />
+      <recent name="C:\Users\lenovo\WebstormProjects\mern-marketplace\client\src\product" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\WebstormProjects\mern-marketplace\server\controllers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.server">
+    <configuration name="client" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="client" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="server" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="server" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.server" />
+        <item itemvalue="npm.client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95df4da3-b227-451d-8634-dd0810dc015d" name="Default Changelist" comment="" />
+      <created>1621344544252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621344544252</updated>
+      <workItem from="1621344547171" duration="4653000" />
+      <workItem from="1621412986059" duration="11464000" />
+      <workItem from="1621497569432" duration="11191000" />
+      <workItem from="1621584937503" duration="10431000" />
+      <workItem from="1621670532106" duration="6437000" />
+      <workItem from="1621756829721" duration="9135000" />
+      <workItem from="1621845276503" duration="4275000" />
+      <workItem from="1621929086947" duration="2548000" />
+      <workItem from="1622099667068" duration="7194000" />
+      <workItem from="1622195373031" duration="7477000" />
+      <workItem from="1622276259231" duration="2373000" />
+      <workItem from="1622444839629" duration="6407000" />
+      <workItem from="1622535914483" duration="1453000" />
+      <workItem from="1622615531910" duration="4165000" />
+      <workItem from="1622622862263" duration="7745000" />
+      <workItem from="1624350629188" duration="2450000" />
+      <workItem from="1625211624116" duration="26000" />
+      <workItem from="1625229216243" duration="26000" />
+      <workItem from="1625229431426" duration="984000" />
+      <workItem from="1625739610958" duration="968000" />
+      <workItem from="1628502855997" duration="45000" />
+      <workItem from="1629046831486" duration="2257000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
